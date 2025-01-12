@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-03)
+## Unreleased (2025-01-12)
 
 <section class="features">
 
@@ -34,6 +34,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`998c1be`](https://github.com/stdlib-js/stdlib/commit/998c1be8630c1efcf19beefda88181db820d1dcb) - **chore:** remove EPS addition and directly draw from desired distribution _(by Philipp Burckhardt)_
+-   [`97c434d`](https://github.com/stdlib-js/stdlib/commit/97c434de1ac819d4f616202b10ebdce3970a76d8) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`12d1a13`](https://github.com/stdlib-js/stdlib/commit/12d1a136f24395a9b223bf2ff0b9aa8ee3d0a61f) - **feat:** add C implementation for `stats/base/dists/triangular/pdf` [(#4322)](https://github.com/stdlib-js/stdlib/pull/4322) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 
 </details>
