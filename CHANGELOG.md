@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-08-29)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`e54795a`](https://github.com/stdlib-js/stdlib/commit/e54795aa6d12fea8cbf8dfae42ee53d139b44912) - **test:** migrate `stats/base/dists/triangular/pdf` to ULP-based assertions [(#14773)](https://github.com/stdlib-js/stdlib/pull/14773) _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-05)
