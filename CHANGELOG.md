@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-16)
+## Unreleased (2026-10-24)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`10bc5c8`](https://github.com/stdlib-js/stdlib/commit/10bc5c804bfd0831d3891eda029950b1f2d17453) - **test:** migrate `stats/base/dists/triangular/pdf` to ULP-based assertions [(#16279)](https://github.com/stdlib-js/stdlib/pull/16279) _(by Athan Reines)_
 -   [`e54795a`](https://github.com/stdlib-js/stdlib/commit/e54795aa6d12fea8cbf8dfae42ee53d139b44912) - **test:** migrate `stats/base/dists/triangular/pdf` to ULP-based assertions [(#14773)](https://github.com/stdlib-js/stdlib/pull/14773) _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
