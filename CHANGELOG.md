@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-24)
+## Unreleased (2026-11-26)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#4989](https://github.com/stdlib-js/stdlib/issues/4989)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,8 @@
 
 <details>
 
+-   [`f008bf3`](https://github.com/stdlib-js/stdlib/commit/f008bf3988c36006ff71feacc7cfe4af94c149ae) - **bench:** refactor random number generation in `stats/base/dists/triangular` [(#16644)](https://github.com/stdlib-js/stdlib/pull/16644) _(by Parth Dembla, Athan Reines)_
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`10bc5c8`](https://github.com/stdlib-js/stdlib/commit/10bc5c804bfd0831d3891eda029950b1f2d17453) - **test:** migrate `stats/base/dists/triangular/pdf` to ULP-based assertions [(#16279)](https://github.com/stdlib-js/stdlib/pull/16279) _(by Athan Reines)_
 -   [`e54795a`](https://github.com/stdlib-js/stdlib/commit/e54795aa6d12fea8cbf8dfae42ee53d139b44912) - **test:** migrate `stats/base/dists/triangular/pdf` to ULP-based assertions [(#14773)](https://github.com/stdlib-js/stdlib/pull/14773) _(by Philipp Burckhardt)_
 
@@ -25,9 +39,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Parth Dembla
 -   Philipp Burckhardt
 
 </section>
